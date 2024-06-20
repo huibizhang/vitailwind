@@ -37,7 +37,6 @@ Vitawind is a Vite helper that can help installing and setting up Tailwind CSS i
 
 ---
 
-<!-- ## Contribution -->
 
 ## License
 
